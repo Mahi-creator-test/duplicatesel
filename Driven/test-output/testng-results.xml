@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-16T18:55:34 IST" name="Default suite" finished-at="2024-10-16T18:56:15 IST" duration-ms="40704">
+    <groups>
+    </groups>
+    <test started-at="2024-10-16T18:55:34 IST" name="Default test" finished-at="2024-10-16T18:56:15 IST" duration-ms="40704">
+      <class name="Login.LoginTestcases$utils">
+        <test-method signature="correctup(java.lang.String,java.lang.String)[pri:0, instance:Login.LoginTestcases$utils@4fb3ee4e]" started-at="2024-10-16T18:55:35 IST" name="correctup" data-provider="Logindata" finished-at="2024-10-16T18:55:39 IST" duration-ms="4056" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Admin333]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- correctup -->
+        <test-method signature="correctup(java.lang.String,java.lang.String)[pri:0, instance:Login.LoginTestcases$utils@4fb3ee4e]" started-at="2024-10-16T18:55:39 IST" name="correctup" data-provider="Logindata" finished-at="2024-10-16T18:55:42 IST" duration-ms="3259" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Dummy]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- correctup -->
+        <test-method signature="correctup(java.lang.String,java.lang.String)[pri:0, instance:Login.LoginTestcases$utils@4fb3ee4e]" started-at="2024-10-16T18:55:42 IST" name="correctup" data-provider="Logindata" finished-at="2024-10-16T18:55:48 IST" duration-ms="5441" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[d]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sddd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- correctup -->
+        <test-method signature="correctup(java.lang.String,java.lang.String)[pri:0, instance:Login.LoginTestcases$utils@4fb3ee4e]" started-at="2024-10-16T18:55:48 IST" name="correctup" data-provider="Logindata" finished-at="2024-10-16T18:55:55 IST" duration-ms="6854" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dfff]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dssdsdsd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- correctup -->
+        <test-method signature="correctup(java.lang.String,java.lang.String)[pri:0, instance:Login.LoginTestcases$utils@4fb3ee4e]" started-at="2024-10-16T18:55:55 IST" name="correctup" data-provider="Logindata" finished-at="2024-10-16T18:56:15 IST" duration-ms="20135" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sdsd]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[aasaas]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- correctup -->
+      </class> <!-- Login.LoginTestcases$utils -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
