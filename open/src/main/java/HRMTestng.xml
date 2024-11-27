@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Bsmart flow test">
+
+<test name="To test sales">
+<classes>
+
+<class name="TestCases.SalesEntry">
+
+
+
+
+</class>
+
+
+</classes>
+
+<!-- </test>
+
+<test name="To test purchase Entry">
+
+<classes>
+
+<class name="Testcases.PurchaseEntry">
+
+
+
+
+</class>
+
+
+</classes>
+
+ -->
+
+
+</test>
+
+
+</suite>
